@@ -1,0 +1,6 @@
+{
+  "database_connect": "your_database_connect",
+  "pytesseract": "your_pytesseract",
+  "telegram_token": "your_telegram_token",
+  "image_repository": "your_image_repository"
+}
